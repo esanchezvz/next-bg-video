@@ -1,0 +1,13 @@
+.hero {
+  position: relative;
+  background-color: rgba(0, 0, 0, 0.54);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  height: 100vh;
+}
+
+.txt-white {
+  color: white;
+}
